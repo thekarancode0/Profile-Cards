@@ -13,7 +13,7 @@ function App() {
             name="Karan Kumar"
             age={12}
             email="karan@gmail.com"
-            link="../public/karan.jpg"
+            link="/Profile-Cards/public/karan.jpg"
           />
           <Card
             name="Aayan Ali"
